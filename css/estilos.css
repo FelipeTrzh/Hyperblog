@@ -1,0 +1,22 @@
+body
+{
+    color: rgb(255, 160, 36);
+    text-align: center;
+    font-family: "Arial";
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 3em;
+    text-align: left;
+    border: 1px solid rgb(250, 206, 62);
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
