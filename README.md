@@ -1,2 +1,2 @@
-# Hyperblog
-Este es el repo para el curso de git y github, hyperblog.
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
